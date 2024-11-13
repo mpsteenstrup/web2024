@@ -13,7 +13,8 @@ body {
     color: white; /* Tekstfarve */
     padding: 20px; /* Indvendig afstand */
     margin: 10px; /* Margin mellem felterne */
-    flex: 1 1 60%; /* Flex-effekt for at få felterne til at fylde pladsen */
+    flex: 1 1 30%; /* Flex-effekt for at få felterne til at fylde pladsen */
+    height: 150px;
     text-align: center; /* Centrer tekst */
     border-radius: 10px; /* Runde hjørner */
     text-decoration: none; /* Fjern understregning */
