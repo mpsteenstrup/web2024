@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: rgb(52, 216, 237);
 }
 .links {
     display: flex; /* Brug flexbox for at arrangere felterne i en række */
